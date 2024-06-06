@@ -1,0 +1,4 @@
+Heart Disease Diagnostic Analysis
+
+This project analyses the various attributes like age, sex, cp,trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca	thal, target etcetera to find key metrics and factors affecting the heart disease. Besides, and is intended to assist in better
+future preparation.
